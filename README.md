@@ -1,4 +1,4 @@
-# mlops_zoomcamp
+# MLOps Zoomcamp
 
 Learning practical aspects of productionizing ML services - from training and experimentating to model deployment and monitoring.
 
